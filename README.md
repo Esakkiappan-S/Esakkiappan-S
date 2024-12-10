@@ -2,7 +2,6 @@
 - 👀 I would like me to grow my career in coding
 - 🌱 I’m currently get exposure to technology 
 - 💞️ I’m looking for an better opportunity to develop my skill with the job
-- 📫 esakkiappansud@gmail.com 
 
 <!---
 Esakkiappan-S/Esakkiappan-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
